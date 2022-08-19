@@ -1,0 +1,5 @@
+#lang racket
+
+(define y 0)
+(set! y 5)
+y
